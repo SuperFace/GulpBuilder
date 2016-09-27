@@ -1,0 +1,1 @@
+!function(c){$(j_m.currPage[0])}();
